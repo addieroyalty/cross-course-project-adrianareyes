@@ -1,2 +1,2 @@
 # cross-course-project-adrianareyes
-wac-ca 2023
+2023 web and communications course assignment
